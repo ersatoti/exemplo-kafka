@@ -1,0 +1,2 @@
+kafka:
+  server: ${spring.embedded.kafka.brokers}
